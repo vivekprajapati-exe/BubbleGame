@@ -10,39 +10,7 @@ body,html{
     overflow: hidden;
 
 }
-/* .screenon{
-    display: block;
-    pointer-events: all;
-}
-.screenoff{
-    display: none;
-    pointer-events: none;
-}
-#timeoutscrn{
-    position: absolute;
-    width: 30%;
-    height: 20%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    background-color: #2880fb;
-    border-radius: 3rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 30px;
-    display: none;
-    
-    
-}
-#timeoutscrn button {
-    background-color: #6eedf8;
-    border-radius: 5px;
-    padding: 10px 20px;
-    border: 0px;
-    cursor: pointer;
-} */
+
 
 #main{
     display: flex;
@@ -100,6 +68,9 @@ body,html{
    }
    .score{
     padding: 10px;
+   }
+   #panel{
+    height: 95%;
    }
 
 
