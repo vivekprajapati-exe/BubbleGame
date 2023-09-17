@@ -31,7 +31,7 @@ function timer(){
         }
         else{
             setTimeout(timerOut);
-            document.querySelector("#pbtm").innerHTML = ` <h1>bahut Khel liya lavde tune 😛</h1>`;
+            document.querySelector("#pbtm").innerHTML = ` <h1>Your game is over but you can play again </h1>`;
         }
     }, 1000);
 }
